@@ -8,3 +8,7 @@ Input:
 Output
    simple interest = p*t*r
    fffffff
+
+
+
+   jjjjjjjjjjjjjjjjj
